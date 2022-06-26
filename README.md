@@ -6,3 +6,5 @@ It is really fullfilling to see the progress I learn things about Git & Github!
 I look forward to make another commit/add/change & come back to the first version & modify that...
 
 need to know how to go to like the 1st version & modify it indtead of the lastest one!
+
+Let's add a new line today June 25 2022
