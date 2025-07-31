@@ -5,6 +5,7 @@ Ok so by just writting a new line of text I have created a new version of this "
 It is really fullfilling to see the progress I learn things about Git & Github!
 I look forward to make another commit/add/change & come back to the first version & modify that...
 
-need to know how to go to like the 1st version & modify it indtead of the lastest one!
+need to know how to go to like the 1st version & modify it instead of the lastest one!
 
-Let's add a new line today June 25 2022
+I'm trying to modify the second branch on July Thirthieth two thousand twenty-five.
+Second branch should not affect the first one.
